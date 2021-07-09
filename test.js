@@ -1,2 +1,1 @@
-console.log('main');
-console.log('feat');
+console.log('new func');
