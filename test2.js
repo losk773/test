@@ -1,0 +1,1 @@
+console.log('add new func 2');
